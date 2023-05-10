@@ -1,4 +1,4 @@
-## Welcome to Eden profile 😁
+## Welcome to Eden's profile 😁
 
  <div>
    <a href="https://github.com/edenkkj">
